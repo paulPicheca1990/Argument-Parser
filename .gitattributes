@@ -1,2 +1,2 @@
-*.c inguist-detectable=true
-Makefile inguist-detectable=false
+*.c linguist-vendored=false
+Makefile linguist-vendored=true
