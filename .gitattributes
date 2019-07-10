@@ -1,2 +1,2 @@
 *.c inguist-detectable=true
-Makefile linguist-language=Java
+Makefile inguist-detectable=false
