@@ -1,2 +1,2 @@
 *.c inguist-detectable=true
-Makefile inguist-detectable=false
+Makefile inguist-language=C
